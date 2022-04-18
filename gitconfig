@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = yanko@thomsonfamily.org
+	name = Yanko Thomson
